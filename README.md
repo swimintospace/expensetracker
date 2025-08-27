@@ -1,5 +1,4 @@
 # Expense Tracker - Eliyas Philip
-# Expense Tracker - [Your Name]
 
 ## 🎯 Overview
 An expense tracker with categorization of expenses that give users suggestions on budgeting with real time alerts. All visualizations, from budgeting to the general UI itself will be user intuitive and aesthetically pleasing.
